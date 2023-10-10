@@ -1,0 +1,23 @@
+        *{
+            margin: 0%;
+            padding: 0%;
+            font-family: sans-serif;
+        }
+        body
+        {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: black;
+        }
+        #Digitalclock
+        {
+            color: rgb(63, 221, 232);
+            font-size: 4rem;
+            box-shadow: 0 0 20px white;
+            padding: 50px;
+            border-radius: 20px;
+            font-weight: 600;
+            border: 2px solid rgb(19, 168, 175);
+        }
